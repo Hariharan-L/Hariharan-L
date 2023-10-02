@@ -2,6 +2,9 @@
 <br>
 <h2 align="center">🔭 I'm currently studying B.E (Electronics and Communication)</h2>
 
+
+[![](https://visitcount.itsvg.in/api?id=Hariharan-L&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
