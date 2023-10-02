@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hariharan_hark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariharan_hark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hari-haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-haran" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hari-haran-82aa4224b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-haran" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:20185295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20185295" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hariharan_hark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hariharan_hark" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@hariharanhark7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hariharanhark7" height="30" width="40" /></a>
