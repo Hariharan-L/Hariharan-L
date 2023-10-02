@@ -3,8 +3,10 @@
 <h3 align="center">🔭 I'm currently studying B.E (Electronics and Communication)</h3>
 
 # 💫 About Me:
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 👯 I’m looking to collaborate on Frontend Development.<br>🤝 I’m looking for help with python problems.<br>🌱 I’m currently learning Frontend frameworks.<br>💬 Ask me about Python problems.<br>⚡ Fun fact : Playing games
-- 📫 How to reach me **hariharanhark7@gmail.com**
+
+- 📫 How to reach me **hariharanhark7@gmail.com*
 
 ## 🌐 Socials:
 <p align="left">
